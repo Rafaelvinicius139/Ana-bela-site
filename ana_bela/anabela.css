@@ -1,0 +1,103 @@
+
+
+
+body{
+
+    background:url(imagens/fundo.png);
+    font:16px Arial, Helvetica, sans-serif;
+}
+
+
+
+
+  #corpo{
+
+    
+
+    width:66%;
+
+    background:#AEAF7A;
+    padding:1px;
+
+
+
+}
+
+img{
+
+    width:100%;
+}
+
+
+
+
+
+#l{
+
+    width:100%;
+    
+    margin:20px;
+  
+
+}
+
+a{
+    padding:8px;
+}
+
+
+#texto{
+
+
+
+    width:65%;
+    font-size:20px;
+    background-color:#EAE7AF;
+   
+
+    padding:10px;
+}
+
+p{
+
+    padding:3px ;
+
+
+
+}
+
+#titulo{
+
+    color:#357C3C;
+
+}
+
+
+#final{
+
+    width: 65%;
+    
+ 
+}
+
+
+
+  .foto{
+
+
+    width:70%;
+
+    margin:10px;
+
+    
+    border:solid #AEAF7A 10px;
+
+
+    }
+
+    a{
+        color: #4b566a;
+        text-decoration: none;
+        font-weight: bold;
+        padding:5px;
+    }
